@@ -1,20 +1,20 @@
-# `Hello there friends!`<img src='.\images\fire.gif' width="36" height="36">
+# `Hello there friends!`<img alt="Fire" src='.\images\fire.gif' width="36" height="36">
 
 ## My name is Tyrell 👋, I'm a Front-End developer with a focus on JavaScript and React 🚀
 
-##  I have a passion for solving problems. I love immersing myself into the technologies and projects I am working on. I am a huge advocate on continuous learning and working towards meaningful goals. 
+##  At a core, I am passionate about solving problems. I love that aspect of development the most. I am happiest when I am immersed in technology and faced with challenges that help me grow. I am a huge advocate on continuous learning and strive to consistently live by that mindset.
 
 ## My Stack:
 <img align="left" alt="HTML" width="26px" src=".\images\html.png" />
-<img align="left" alt="HTML" width="26px" src=".\images\css.png" />
-<img align="left" alt="HTML" width="26px" src=".\images\javascript.png" />
-<img align="left" alt="HTML" width="26px" src=".\images\react.png" />
-<img align="left" alt="HTML" width="26px" src=".\images\visual-studio-code.png" />
+<img align="left" alt="CSS" width="26px" src=".\images\css.png" />
+<img align="left" alt="JavaScript" width="26px" src=".\images\javascript.png" />
+<img align="left" alt="React" width="26px" src=".\images\react.png" />
+<img align="left" alt="VS Code" width="26px" src=".\images\visual-studio-code.png" />
 <br/>
 
 ## Connect With Me:
-[<img src='.\images\linkedin.png' width="36" height="36">](https://www.linkedin.com/in/tyrellcurry/)
-[<img src='.\images\insta.png' width="36" height="36">](https://www.instagram.com/tyrellcurry/)
+[<img align="left" alt="LinkedIn" src='.\images\linkedin.png' width="36" height="36">](https://www.linkedin.com/in/tyrellcurry/)
+[<img align="left" alt="Instagram" src='.\images\insta.png' width="36" height="36">](https://www.instagram.com/tyrellcurry/)
 
 <!--
 
