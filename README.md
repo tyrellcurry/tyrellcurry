@@ -1,6 +1,6 @@
 # Hello there friends! <img alt="Fire" src='images\blueblob_jump.gif' width="36" height="36">
 
-## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React 🚀.
+## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React.
 
 ## At a core, I am passionate about solving problems. I think I love that aspect of coding the most. I find I am happiest when I am immersed in technology and faced with daily challenges that help me grow. I am a huge advocate on continuous learning and strive to consistently live by that mindset.
 
