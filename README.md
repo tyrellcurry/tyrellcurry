@@ -1,8 +1,8 @@
 # Hello there friends! <img alt="Fire" src='images\blueblob_jump.gif' width="36" height="36">
 
-## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React.
+## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
-## At a core, I am passionate about solving problems. I think I love that aspect of coding the most. I find I am happiest when I am immersed in technology and faced with daily challenges that help me grow. I am a huge advocate on continuous learning and strive to consistently live by that mindset.
+## At a core, I am a creative person, and coding fully scratches my creative itch. Having consistent problems to solve that require creative thinking is what keeps me coming back day after day. I get tremendous satisfaction from creating something beautiful and functional out of nothing. My goal is to have a successful career as a developer, and in turn, get to do something that I love every single day.
 
 ## My Stack:
 
