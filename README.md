@@ -2,7 +2,7 @@
 
 ## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
-## At a core, I am a creative person, and coding fully scratches my creative itch. Having consistent problems to solve that require creative thinking is what keeps me coming back day after day. I get tremendous satisfaction from creating something beautiful and functional out of nothing. My goal is to have a successful career as a developer, and in turn, get to do something that I love every single day.
+## I am a self taught developer with a creative personality. I love solving problems, building effective applications, and learning new things. My coding journey has taught me a lot about self discipline and consistency. My goal is to transition into a career as a front-end developer!
 
 ## My Stack:
 
@@ -16,21 +16,4 @@
 ## Connect With Me:
 
 [<img align="left" alt="LinkedIn" src='.\images\linkedin.png' width="36" height="36">](https://www.linkedin.com/in/tyrellcurry/)
-[<img align="left" alt="Instagram" src='.\images\insta.png' width="36" height="36">](https://www.instagram.com/tyrellcurry/)
-
-<!--
-
-
-**tyrellcurry/tyrellcurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Instagram" src='.\images\twitter.png' width="36" height="36">](https://twitter.com/Tyrell_io)
