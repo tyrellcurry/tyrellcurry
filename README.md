@@ -15,5 +15,5 @@
 
 ## Connect With Me:
 
-[<img align="left" alt="LinkedIn" src='.\images\linkedin-icon.png' width="36" height="36">](https://www.linkedin.com/in/tyrellcurry/)
+[<img align="left" alt="LinkedIn" src='.\images\linkedin-sq.png' width="36" height="36">](https://www.linkedin.com/in/tyrellcurry/)
 [<img align="left" alt="Twitter" src='.\images\twitter-icon.png' width="36" height="36">](https://twitter.com/Tyrell_io)
