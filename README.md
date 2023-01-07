@@ -3,15 +3,31 @@
 ## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
 ## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently enjoying TailwindCSS and NextJS.
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
+
+<br>
 
 ## My Stack:
 
-<img align="left" alt="HTML" width="26px" src=".\images\html.png" />
-<img align="left" alt="CSS" width="26px" src=".\images\css.png" />
-<img align="left" alt="JavaScript" width="26px" src=".\images\javascript.png" />
-<img align="left" alt="React" width="26px" src=".\images\react.png" />
-<img align="left" alt="VS Code" width="26px" src=".\images\visual-studio-code.png" />
-<br/>
+<img align="left" alt="HTML" width="30px" src=".\images\html.png" />
+&nbsp;
+<img align="left" alt="CSS" width="30px" src=".\images\css.png" />
+&nbsp;
+<img align="left" alt="JavaScript" width="30px" src=".\images\javascript.png" />
+&nbsp;
+<img align="left" alt="React" width="30px" src=".\images\react.png" />
+&nbsp;
+<img align="left" alt="Tailwind" width="30px" src=".\images\tailwind.png" />
+&nbsp;
+<img align="left" alt="VS Code" width="30px" src=".\images\visual-studio-code.png" />
+<br>
+<br>
+<br>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
+
 
 ## Connect With Me:
 
