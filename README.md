@@ -11,14 +11,12 @@
 
 ## My Stack:
 
-<img align="left" alt="HTML" width="30px" src=".\images\html.png" />
-<img align="left" alt="CSS" width="30px" src=".\images\css.png" />
-<img align="left" alt="JavaScript" width="30px" src=".\images\javascript.png" />
-<img align="left" alt="React" width="30px" src=".\images\react.png" />
-<img align="left" alt="Tailwind" width="30px" src=".\images\tailwind.png" />
-<img align="left" alt="VS Code" width="30px" src=".\images\visual-studio-code.png" />
-<br>
-<br>
+<img align="left" alt="HTML" width="36px" src=".\images\html.png" />
+<img align="left" alt="CSS" width="36px" src=".\images\css.png" />
+<img align="left" alt="JavaScript" width="36px" src=".\images\javascript.png" />
+<img align="left" alt="React" width="36px" src=".\images\react.png" />
+<img align="left" alt="Tailwind" width="36px" src=".\images\tailwind.png" />
+<img align="left" alt="VS Code" width="36px" src=".\images\visual-studio-code.png" />
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
