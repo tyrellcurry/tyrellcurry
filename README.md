@@ -5,6 +5,8 @@
 ## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently enjoying TailwindCSS and NextJS.
 <br>
 
+## [View My Personal Portfolio](https://tyrellcurry.io)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
 
 
