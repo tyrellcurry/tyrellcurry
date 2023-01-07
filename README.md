@@ -12,15 +12,10 @@
 ## My Stack:
 
 <img align="left" alt="HTML" width="30px" src=".\images\html.png" />
-&nbsp;
 <img align="left" alt="CSS" width="30px" src=".\images\css.png" />
-&nbsp;
 <img align="left" alt="JavaScript" width="30px" src=".\images\javascript.png" />
-&nbsp;
 <img align="left" alt="React" width="30px" src=".\images\react.png" />
-&nbsp;
 <img align="left" alt="Tailwind" width="30px" src=".\images\tailwind.png" />
-&nbsp;
 <img align="left" alt="VS Code" width="30px" src=".\images\visual-studio-code.png" />
 <br>
 <br>
