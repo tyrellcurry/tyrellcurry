@@ -7,7 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
 
-<br>
 
 ## My Stack:
 
@@ -17,6 +16,7 @@
 <img align="left" alt="React" width="36px" src=".\images\react.png" />
 <img align="left" alt="Tailwind" width="36px" src=".\images\tailwind.png" />
 <img align="left" alt="VS Code" width="36px" src=".\images\visual-studio-code.png" />
+<br>
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
