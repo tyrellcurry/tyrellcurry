@@ -10,12 +10,12 @@
 
 ## My Stack:
 
-<img align="left" alt="HTML" width="26px" src=".\images\html.png" />
-<img align="left" alt="CSS" width="26px" src=".\images\css.png" />
-<img align="left" alt="JavaScript" width="26px" src=".\images\javascript.png" />
-<img align="left" alt="React" width="26px" src=".\images\react.png" />
-<img align="left" alt="Tailwind" width="26px" src=".\images\tailwind.png" />
-<img align="left" alt="VS Code" width="26px" src=".\images\visual-studio-code.png" />
+<img align="left" alt="HTML" width="32px" src=".\images\html.png" />
+<img align="left" alt="CSS" width="32px" src=".\images\css.png" />
+<img align="left" alt="JavaScript" width="32px" src=".\images\javascript.png" />
+<img align="left" alt="React" width="32px" src=".\images\react.png" />
+<img align="left" alt="Tailwind" width="32px" src=".\images\tailwind.png" />
+<img align="left" alt="VS Code" width="32px" src=".\images\visual-studio-code.png" />
 <br>
 <br>
 <br>
