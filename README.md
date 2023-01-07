@@ -6,7 +6,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
+![Tyrell Curry's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
 
 
 ## My Stack:
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
+![Tyrell Curry's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
 
 
 ## Connect With Me:
