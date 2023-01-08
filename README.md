@@ -2,11 +2,11 @@
 
 ## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
-## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently enjoying TailwindCSS and NextJS. <br><br>[View My Portfolio](https://tyrellcurry.io)
+## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently enjoying TailwindCSS and NextJS. <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
 <br>
 
 
-![Tyrell Curry's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrellcurry&theme=github_dark&show_icons=true)
+[![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 ## My Stack:
