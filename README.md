@@ -1,8 +1,8 @@
-# Welcome! <img alt="Blue blob jumping" src='images\blueblob_jump.gif' width="36" height="36">
+# Welcome <img alt="Blue blob jumping" src='images\wave.gif' width="36" height="36">
 
-## My name is Tyrell 👋, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
+## My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
-## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently enjoying TailwindCSS and NextJS. <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
+## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently learning Ruby to increase my backend skills. <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
 <br>
 
 
