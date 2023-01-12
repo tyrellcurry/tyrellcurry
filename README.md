@@ -11,17 +11,17 @@
 
 ## My Stack:
 
-<img align="left" alt="HTML" width="32px" src=".\images\html.png" />
-<img align="left" alt="CSS" width="32px" src=".\images\css.png" />
-<img align="left" alt="JavaScript" width="32px" src=".\images\javascript.png" />
-<img align="left" alt="TypeScript" width="32px" src=".\images\ts.png" />
-<img align="left" alt="Ruby" width="32px" src=".\images\ruby.png" />
+<img  alt="HTML" width="32px" src=".\images\html.png" />
+<img  alt="CSS" width="32px" src=".\images\css.png" />
+<img  alt="JavaScript" width="32px" src=".\images\javascript.png" />
+<img  alt="TypeScript" width="32px" src=".\images\ts.png" />
+<img  alt="Ruby" width="32px" src=".\images\ruby.png" />
 <br>
 <br>
-<img align="left" alt="React" width="32px" src=".\images\react.png" />
-<img align="left" alt="NextJS" width="32px" src=".\images\next.png" />
-<img align="left" alt="Tailwind" width="32px" src=".\images\tailwind.png" />
-<img align="left" alt="VS Code" width="32px" src=".\images\visual-studio-code.png" />
+<img  alt="React" width="32px" src=".\images\react.png" />
+<img  alt="NextJS" width="32px" src=".\images\next.png" />
+<img  alt="Tailwind" width="32px" src=".\images\tailwind.png" />
+<img  alt="VS Code" width="32px" src=".\images\visual-studio-code.png" />
 <br>
 <br>
 
