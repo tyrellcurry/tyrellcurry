@@ -15,7 +15,7 @@
 <img align="left" alt="CSS" width="32px" src=".\images\css.png" />
 <img align="left" alt="JavaScript" width="32px" src=".\images\javascript.png" />
 <img align="left" alt="TypeScript" width="32px" src=".\images\ts.png" />
-<img align="left" alt="Ruby" width="32px" src=".\images\ruby.png" />
+<!-- <img align="left" alt="Ruby" width="32px" src=".\images\ruby.png" /> -->
 </p>
 <br>
 <br>
