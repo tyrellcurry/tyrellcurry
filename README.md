@@ -16,7 +16,6 @@ I am currently learning more about Data Structures and Algorithms.
 
 <!-- <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
 <br> -->
-<br/>
 
 [![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=github-dark-blue)](https://git.io/streak-stats)
 
