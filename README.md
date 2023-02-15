@@ -8,11 +8,11 @@ TL;DR
 
 <hr>
 
-#### My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
-<br/>
+My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
-#### I am a passionate self taught developer with a creative personality. My current favourite tech to work with is NextJS, Tailwind, and AstroJS. I love hosting cafe coding sessions on the weekend, learning new frameworks and technologies, and building elegant and effective applications.
-#### I am currently learning more about Data Structures and Algorithms. 
+I am a passionate self taught developer with a creative personality. My current favourite tech to work with is NextJS, Tailwind, and AstroJS. I love hosting cafe coding sessions on the weekend, learning new frameworks and technologies, and building elegant and effective applications.
+
+I am currently learning more about Data Structures and Algorithms. 
 
 <!-- <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
 <br> -->
