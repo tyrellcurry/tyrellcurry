@@ -1,15 +1,27 @@
 # Welcome <img alt="Blue blob jumping" src='images\wave.gif' width="36" height="36">
 
-## My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
+TL;DR
 
-## I am a self taught developer with a creative personality. I love solving problems, building effective applications, automating processes, and learning new things. My coding journey has taught me a lot about self discipline and consistency. I am currently learning more about Data Structures and Algorithms. <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
-<br>
+- Self taught front-end focused developer with close to a year of industry experience.
+- Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developers processes.
+- Located in Vancouver, BC, Canada.
 
+<hr>
+
+#### My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
+<br/>
+
+#### I am a passionate self taught developer with a creative personality. My current favourite tech to work with is NextJS, Tailwind, and AstroJS. I love hosting cafe coding sessions on the weekend, learning new frameworks and technologies, and building elegant and effective applications.
+#### I am currently learning more about Data Structures and Algorithms. 
+
+<!-- <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
+<br> -->
+<br/>
 
 [![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
-## My Stack:
+## My Tech Stack:
 <p float="left">
 <img align="left" alt="HTML" width="32px" src=".\images\html.png" />
 <img align="left" alt="CSS" width="32px" src=".\images\css.png" />
