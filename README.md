@@ -1,19 +1,13 @@
-# Welcome <img alt="Blue blob jumping" src='images\wave.gif' width="36" height="36">
+# Hey there! I'm Tyrell <img alt="Blue blob jumping" src='images\wave.gif' width="36" height="36">
 
-## TL;DR
+### Front-end Software Developer
 
-- Self taught front-end focused developer with close to a year of industry experience.
-- Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developers processes.
-- Located in Vancouver, BC, Canada.
+* 👨‍💻 Self taught with close to a year of industry experience.
+* 🚀 Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developer's processes.
+* 🌏 Located in Vancouver, BC, Canada.
+* 👾 Currently focused on building a blog 📝 and a fullstack webapp called PrayerBox ✨.
 
-## About
-My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
-
-I am a passionate self taught developer with a creative personality. My current favourite tech to work with is NextJS, Tailwind, and AstroJS. I love hosting cafe coding sessions on the weekend, learning new frameworks and technologies, and building elegant and effective applications.
-
-I am currently learning more about Data Structures and Algorithms. 
-
-## Tech I've Worked With & Passionate About
+### Tech I've Worked With & Passionate About
 <details open>
 <summary>🚀 Languages:</summary>
 <br>
@@ -33,7 +27,7 @@ I am currently learning more about Data Structures and Algorithms.
 <summary>💻 Databases:</summary>
 <br>
 
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,prisma&perline=6)](https://github.com/tyrellcurry/)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,express,prisma&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 <details>
@@ -43,18 +37,12 @@ I am currently learning more about Data Structures and Algorithms.
 [![DevOPS & Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,netlify,vercel,wordpress,xd,figma,stackoverflow&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
-<!-- <br><br>✨ [View My Portfolio](https://tyrellcurry.io) ✨
-<br> -->
-
-## Github Stats
+### Github Stats
 
 [![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=github-dark-blue)](https://git.io/streak-stats)
 <br>
 
-![Tyrell Curry's Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tyrellcurry&theme=github_dark)
-
-
-## Connect With Me:
+### Connect With Me:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tyrellcurry/)
 [![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tyrell_io)
