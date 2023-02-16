@@ -23,7 +23,7 @@ I am currently learning more about Data Structures and Algorithms.
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://github.com/tyrellcurry/)
 </details>
 
-<details open>
+<details>
 <summary>🤖 Frameworks:</summary>
 <br>
 
@@ -31,14 +31,14 @@ I am currently learning more about Data Structures and Algorithms.
 </details>
 
 
-<details open>
+<details>
 <summary>💻 Databases:</summary>
 <br>
 
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,prisma&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
-<details open>
+<details>
 <summary>🛠️ DevOPS & Tools:</summary>
 <br>
 
