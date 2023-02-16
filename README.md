@@ -3,7 +3,7 @@
 ### Front-end Software Developer
 
 * 👨‍💻 Self taught with close to a year of industry experience.
-* 🚀 Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developer's processes.
+* 👨‍🔧 Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developer's processes.
 * 🌏 Located in Vancouver, BC, Canada.
 * 👾 Currently focused on building a blog 📝 and a fullstack webapp called PrayerBox ✨.
 
