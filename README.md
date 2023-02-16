@@ -6,8 +6,6 @@
 - Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developers processes.
 - Located in Vancouver, BC, Canada.
 
-<hr>
-
 ## About
 My name is Tyrell, I'm a Front-End developer with a focus on HTML5, CSS3, JavaScript and React. I am located in beautiful Vancouver, British Columbia, Canada.
 
