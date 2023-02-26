@@ -1,7 +1,7 @@
 # Hey there! I'm Tyrell <img alt="Blue blob jumping" src='images\wave.gif' width="36" height="36">
 
-[![Activity](https://img.shields.io/badge/activity-coding-green)](https://github.com/tyrellcurry/)
-[![Focus](https://img.shields.io/badge/focus-fullstack-blue)](https://github.com/tyrellcurry/)
+<!-- [![Activity](https://img.shields.io/badge/activity-coding-green)](https://github.com/tyrellcurry/)
+[![Focus](https://img.shields.io/badge/current%20focus:-fullstack-blue)](https://github.com/tyrellcurry/) -->
 
 ### Software Developer
 * 👨‍💻 Self taught with close to a year of industry experience.
