@@ -16,7 +16,7 @@
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://github.com/tyrellcurry/)
 </details>
 
-<details>
+<details open>
 <summary>🤖 Frameworks:</summary>
 <br>
 
@@ -24,14 +24,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary>💻 Databases:</summary>
 <br>
 
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,express,prisma&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
-<details>
+<details open>
 <summary>🛠️ DevOPS & Tools:</summary>
 <br>
 
