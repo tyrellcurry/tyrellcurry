@@ -3,8 +3,8 @@
 <!-- [![Activity](https://img.shields.io/badge/activity-coding-green)](https://github.com/tyrellcurry/)
 [![Focus](https://img.shields.io/badge/current%20focus:-fullstack-blue)](https://github.com/tyrellcurry/) -->
 
-### Software Developer
-* 👨‍💻 Self taught with close to a year of industry experience.
+### Web Developer
+* 👨‍💻 Self taught passionate web developer with hands-on industry experience.
 * 👨‍🔧 Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developer's processes.
 * 🌏 Located in Vancouver, BC, Canada.
 
