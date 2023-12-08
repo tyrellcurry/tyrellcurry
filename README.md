@@ -40,7 +40,7 @@
 
 ### Github Stats
 
-[![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=carbonfox)](https://git.io/streak-stats)
 <br>
 
 ### Connect With Me:
