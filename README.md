@@ -13,14 +13,14 @@
 <summary>🚀 Languages:</summary>
 <br>
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://github.com/tyrellcurry/)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/tyrellcurry/)
 </details>
 
 <details>
 <summary>🤖 Frameworks:</summary>
 <br>
 
-[![Frameworks & Runtimes](https://skillicons.dev/icons?i=react,nextjs,astro,alpinejs,tailwind,bootstrap&perline=6)](https://github.com/tyrellcurry/)
+[![Frameworks & Runtimes](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,alpinejs,tailwind,bootstrap,express,prisma&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 
@@ -28,7 +28,7 @@
 <summary>💻 Databases:</summary>
 <br>
 
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,express,prisma&perline=6)](https://github.com/tyrellcurry/)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 <details>
