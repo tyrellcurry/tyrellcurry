@@ -4,7 +4,12 @@
 [![Focus](https://img.shields.io/badge/current%20focus:-fullstack-blue)](https://github.com/tyrellcurry/) -->
 
 ### Web Developer
-* 👨‍💻 Self taught passionate web developer with hands-on industry experience.
+Thanks for dropping by! I'm a passionate web developer that occasionally streams on [twitch](https://www.twitch.tv/innovativefoxes). 
+
+Some facts about me:
+* 👨‍💻 Currently working at MERGE as a web developer.
+* 👨‍🏫 Fully self taught. Yes that's right! I dove into the world of web development in 2019 and never looked back.
+* 📚 Strong advocate for continuous learning and focusing on core skills rather than tools.
 * 👨‍🔧 Creator of [Marketo Browser Support Chrome Extension](https://chrome.google.com/webstore/detail/marketo-browser-support/iinigaojmcejccagokaolgdfhelkemap), which helps speed up Marketo developer's processes.
 * 🌏 Located in Vancouver, BC, Canada.
 
