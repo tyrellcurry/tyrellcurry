@@ -43,10 +43,10 @@ Some facts about me:
 [![DevOPS & Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,netlify,vercel,wordpress,xd,figma,stackoverflow&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
-### Github Stats
+<!-- ### Github Stats
 
 [![Tyrell Curry's GitHub Streak](https://streak-stats.demolab.com?user=tyrellcurry&theme=carbonfox)](https://git.io/streak-stats)
-<br>
+<br> -->
 
 ### Connect With Me:
 
