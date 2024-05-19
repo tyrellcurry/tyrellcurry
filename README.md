@@ -20,14 +20,14 @@ Some facts about me:
 <summary>🚀 Languages:</summary>
 <br>
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/tyrellcurry/)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java)](https://github.com/tyrellcurry/)
 </details>
 
 <details>
-<summary>🤖 Frameworks:</summary>
+<summary>🤖 Frameworks & Libraries:</summary>
 <br>
 
-[![Frameworks & Runtimes](https://skillicons.dev/icons?i=nodejs,react,nextjs,astro,alpinejs,tailwind,bootstrap,express,prisma&perline=6)](https://github.com/tyrellcurry/)
+[![Frameworks & Runtimes](https://skillicons.dev/icons?i=nodejs,react,nextjs,jquery,spring,astro,tailwind,bootstrap,sass,express,jest&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 
@@ -35,14 +35,14 @@ Some facts about me:
 <summary>💻 Databases:</summary>
 <br>
 
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://github.com/tyrellcurry/)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 <details>
 <summary>🛠️ DevOPS & Tools:</summary>
 <br>
 
-[![DevOPS & Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,netlify,vercel,wordpress,xd,figma,stackoverflow&perline=6)](https://github.com/tyrellcurry/)
+[![DevOPS & Tools](https://skillicons.dev/icons?i=vscode,neovim,git,github,postman,netlify,vercel,wordpress,xd,figma,stackoverflow&perline=6)](https://github.com/tyrellcurry/)
 </details>
 
 <!-- ### Github Stats
