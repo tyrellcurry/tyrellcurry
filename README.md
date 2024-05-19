@@ -4,7 +4,9 @@
 [![Focus](https://img.shields.io/badge/current%20focus:-fullstack-blue)](https://github.com/tyrellcurry/) -->
 
 ### Web Developer
-Thanks for dropping by! I'm a passionate web developer that occasionally streams on [twitch](https://www.twitch.tv/innovativefoxes). 
+
+***“Simplicity is the soul to efficiency.”***
+<!-- Thanks for dropping by! I'm a passionate web developer that occasionally streams on [twitch](https://www.twitch.tv/innovativefoxes).  -->
 
 Some facts about me:
 * 👨‍💻 Currently working at MERGE as a web developer.
