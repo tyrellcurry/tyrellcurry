@@ -55,4 +55,4 @@ Some facts about me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tyrellcurry/)
 [![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tyrell_io)
 
-_all my git activity on this account is personal projects/development, my work activity is not tracked on this account_
+_all git activity tracked on this account is personal projects/development, my work activity is not tracked on this account_
