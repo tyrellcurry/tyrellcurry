@@ -16,9 +16,9 @@ Some facts about me:
 
 ```json
 {
-  "frontend": ["typescript", "react", "next.js", "redux", "css|tailwindcss|sass", "storybook"],
+  "frontend": ["typescript", "react", "next.js", "redux", "css|tailwindcss|sass", "jest", "storybook"],
   "backend": ["java", "nodejs", "express", "postgres"],
-  "ops": ["nvim", "tmux", "zsh", "git", "jest"]
+  "ops": ["nvim", "tmux", "zsh", "git"]
 }
 ```
 
