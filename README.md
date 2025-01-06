@@ -9,7 +9,6 @@ Some facts about me:
 * 👨‍💻 Currently working at [MERGE](https://mergeworld.com/) as a FE software developer.
 * ❤️ Found my passion in software development in 2019.
 * 🇨🇦 Located in Vancouver, BC, Canada.
-* 👾 Occasionally I stream on [twitch](https://www.twitch.tv/tyrell_io).
 
 
 ### Some technologies I work with and am passionate about:
