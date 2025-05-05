@@ -7,7 +7,7 @@
 
 Some facts about me:
 
-- 👨‍💻 Currently working at [MERGE](https://mergeworld.com/) as a Frontend Software Engineer.
+- 👨‍💻 Currently working at [Pantheon](https://pantheon.io/) as a Software Engineer II.
 - ❤️ Found my passion in software development in 2019.
 - 🇨🇦 Located in Vancouver, BC, Canada.
 <!-- * 👾 Occasionally I stream on [twitch](https://www.twitch.tv/tyrell_io). -->
