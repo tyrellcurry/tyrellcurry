@@ -18,5 +18,3 @@ My specialization focuses largely on React, NextJS, TypeScript, Tailwind, NodeJS
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tyrellcurry/)
 [![Linkedin](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tyrell_io)
-
-_all git activity tracked on this account is personal projects/development, my work activity is not tracked on this account_
