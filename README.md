@@ -5,7 +5,7 @@
 Some facts about me:
 
 - 👨‍💻 Currently working at [Pantheon](https://pantheon.io/) as a Software Engineer II.
-- ❤️ Found my passion in software development in 2019.
+- ❤️ Found my passion in software development in 2022.
 - 🇨🇦 Located in Vancouver, BC, Canada.
 
 My specialization focuses largely on React, NextJS, TypeScript, Tailwind, NodeJS, and Storybook.
